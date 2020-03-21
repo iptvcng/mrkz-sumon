@@ -1,3 +1,5 @@
+#EXTINF:-1,MARS TV
+http://10.10.10.10:8080/hls/show.m3u8
 #EXTINF:-1,Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
 #EXTINF:-1,ASIAN TV
@@ -52,8 +54,6 @@ http://103.68.116.50/live/feed1002/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-3)
 http://103.111.120.46/hls/gazi-tv.m3u8
-#EXTINF:-1,BD IP 1
-http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV
@@ -88,38 +88,18 @@ http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 http://streamidvo.multitvsolution.in/TLCEng-a/playlist.m3u8
 #EXTINF:-1,Akaash Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
-#EXTINF:-1,Akaash Aath (Opt-2)
-http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #EXTINF:-1,Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Colors Bangla
-http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
 #EXTINF:-1,Sony Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-#EXTINF:-1,Sony Aath (Opt-2)
-http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1,Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha (Opt-01)
-http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
-#EXTINF:-1,Star Jalsha (Opt-02)
-http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
-#EXTINF:-1,Jalsha Movies (Opt-2)
-http://103.58.73.26/streams/115/index.m3u8
-#EXTINF:-1,Zee Bangla (Opt-1)
-http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
-#EXTINF:-1,Zee Bangla (Opt-2)
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1,Zee Bangla (Opt-3)
-https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
 #EXTINF:-1,Zee Bangla HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-1)
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema (Opt-2)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zbanglacnm/index.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
@@ -154,54 +134,36 @@ http://p5.giffy.be:8080/gabi12/gabi12/20733
 http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-01)
 http://p5.giffy.be:8080/gabi12/gabi12/20733
-#EXTINF:-1,Star Sports Select 2 (Opt-02)
-http://103.58.73.26/streams/114/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1,Zee Action (Opt-1)
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
-#EXTINF:-1,Zee Action (Opt-2)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1, Gem Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1,Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1,Colors HD (Opt-01)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors HD (Opt-02)
-http://p5.giffy.be:8080/Testing1/Testing1/21056
 #EXTINF:-1,Colors (Opt-01)
 http://fr-c.movply.stream/hls/Colors.m3u8
-#EXTINF:-1,Colors (Opt-02)
-http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Colors Rishtey
 http://p5.giffy.be:8080/Testing1/Testing1/21039
 #EXTINF:-1,Sony TV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Sony TV
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 #EXTINF:-1,SONY SET MAX
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1,Sony SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Sony SAB
-https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 #EXTINF:-1,Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1,Star Plus
-http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD
 http://p5.giffy.be:8080/Testing1/Testing1/21058
 #EXTINF:-1,Star Select HD
 http://p5.giffy.be:8080/Testing1/Testing1/21055
 #EXTINF:-1,Star Bharat (Opt-01)
 https://livedoomovies.com/02_STAR_BHARAT_720p/chunklist.m3u8
-#EXTINF:-1,Star Bharat (Opt-02)
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1,UTV HD
 http://p5.giffy.be:8080/Testing1/Testing1/21059
 #EXTINF:-1,Zee World
@@ -210,8 +172,6 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
 https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
-#EXTINF:-1,Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,Animal Planet HD
 http://p5.giffy.be:8080/Testing1/Testing1/21068
 #EXTINF:-1,FOX Life HD
@@ -220,29 +180,20 @@ http://p5.giffy.be:8080/Testing1/Testing1/21061
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
-#EXTINF:-1,National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1,National Geographic HD
 http://p5.giffy.be:8080/Testing1/Testing1/21061
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 #EXTINF:-1,Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1,TLC HD World
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
-#EXTINF:-1,TLC HD
-https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
-#EXTINF:-1,Sony MIX (Opt-1)
-http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zoom (Opt-1)
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
-#EXTINF:-1,Zoom (Opt-2)
-http://live.airteltvplus.com/hls/O7fnqtaudubVDJ9r1Ns1XA/1568453124/zoom_hi/index.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,Music India
