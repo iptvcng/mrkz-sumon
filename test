@@ -1,5 +1,5 @@
 #EXTINF:-1,MARS TV
-http://114.31.15.254:8080/hls/show.m3u8
+http://114.31.15.254:554/hls/show.m3u8
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Movies",Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Entertainment",Asian TV
